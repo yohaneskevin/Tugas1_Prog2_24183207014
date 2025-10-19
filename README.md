@@ -3,7 +3,7 @@ Tugas 1 - Pemrograman 2
 
 Nama:Yohanes Kevin Victorian
 
-NPM: 24183207014
+NPM : 24183207014
 
 Kelas: Pendidikan Teknologi Informasi
 
