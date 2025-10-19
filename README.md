@@ -16,5 +16,8 @@ Intinya:Mahasiswa mendefinisikan APA itu seorang mahasiswa (punya nama, Npm, jur
 
 Contoh Output:
 
+Berikut hasil ketika program dijalankan di NetBeans:
+
+
 
 <img width="263" height="166" alt="image" src="https://github.com/user-attachments/assets/f7858ad8-bad9-407a-a5da-a7991156c6d5" />
